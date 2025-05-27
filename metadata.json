@@ -1,0 +1,5 @@
+{
+  "name": "Drum Pattern Sequencer",
+  "description": "A web application for music producers and beatmakers to create, save, and get AI-suggested names for drum patterns. Features a 16-step sequencer for various drum instruments.",
+  "requestFramePermissions": []
+}
