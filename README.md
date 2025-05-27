@@ -20,13 +20,6 @@
 
 * Navegador moderno con soporte de **Web Audio API** y **WebAssembly** (Chrome, Firefox, Edge, Safari).
 
-### Primeros pasos
-
-```bash
-# Clona el repositorio
-git clone https://github.com/<tu‑usuario>/drumpadtoolkit.git
-cd drumpadtoolkit
-
 
 ### Estructura del proyecto (simplificada)
 
