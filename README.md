@@ -12,6 +12,7 @@
 
 * 🎚️ *Step‑sequencer* de 16 / 32 pasos en tu navegador.
 * 🔊 Carga de samples personalizados ( `.wav`, `.mp3`, etc.).
+* ✨ Generación de patrones y sugerencias de nombres asistida por IA.
 * 💾 Guardado y recuperación de patrones en *localStorage*.
 * 🌐 Interfaz multilingüe (inglés, castellano, catalán) gracias a archivos `locales/*.json`.
 * ⬇️ Exportación instantánea a **MIDI** o **WAV**.
